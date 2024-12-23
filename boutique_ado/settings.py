@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'j$tse4u8@29g1is%up*&2rfvti(d^*lc*^99j0ece_zz11wtec'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-gbroder24-djangoboutiqu-fi2jh67ddhw.ws.codeinstitute-ide.net',
                  'gbdev24-boutique-ado.herokuapp.com'
