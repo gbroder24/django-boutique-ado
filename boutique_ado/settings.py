@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['8000-gbroder24-djangoboutiqu-fi2jh67ddhw.ws.codeinstitute-ide.net',
-                 'gbdev24-boutique-ado-5048c1a63afa.herokuapp.com'
+                 'gbdev24-boutique-ado.herokuapp.com'
 ]
 
 
