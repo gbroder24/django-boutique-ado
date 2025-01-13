@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: /accounts/
+sitemap: https://gbdev24-boutique-ado-5048c1a63afa.herokuapp.com/sitemap.xml
